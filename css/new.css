@@ -1,0 +1,21 @@
+body{
+    background: rgb(27,15,235);
+background: linear-gradient(90deg, rgba(27,15,235,1) 0%, rgba(11,16,129,1) 50%, rgba(12,241,231,1) 100%);
+}
+img{
+    width: 30%;
+    height: 30%;
+}
+h1{
+    color: honeydew;
+    font-size: 30px;
+}
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: honeydew;
+    font-size: 18px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: honeydew;
+}
