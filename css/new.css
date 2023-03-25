@@ -3,8 +3,8 @@ body{
 background: linear-gradient(90deg, rgba(27,15,235,1) 0%, rgba(11,16,129,1) 50%, rgba(12,241,231,1) 100%);
 }
 img{
-    width: 30%;
-    height: 30%;
+    width: 20%;
+    height: 20%;
 }
 h1{
     color: honeydew;
@@ -18,4 +18,16 @@ a{
 h2{
     font-family: 'Times New Roman', Times, serif;
     color: honeydew;
+}
+#ejer1{
+    font-family: 'Times New Roman', Times, serif;
+    color: honeydew;
+    font-size: 16px;
+}
+input{
+    display: block;
+    margin: 5px;
+}
+input:invalid{
+    background-color: red;
 }
